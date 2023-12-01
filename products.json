@@ -1,0 +1,253 @@
+[ {
+      "product_id": 201,
+      "name": "Nulla",
+      "price": 207,
+      "categoryId": 1,
+      "rate": 2.44,
+      "description": "Culpa sed tenetur incidunt quia veniam sed molliti",
+      "review": 78,
+      "imageUrl": "https://dummyimage.com/600x400/00000/fff&text=df",
+      "new": true
+    },
+    {
+      "product_id": 202,
+      "name": "Corporis",
+      "price": 271,
+      "categoryId": 1,
+      "rate": 2.18,
+      "description": "Nam incidunt blanditiis odio inventore. Nobis volu",
+      "review": 67,
+      "imageUrl": "https://dummyimage.com/600x400/00000/fff&text=dfs"
+    },
+    {
+      "product_id": 203,
+      "name": "Minus",
+      "price": 295,
+      "categoryId": 1,
+      "rate": 0.91,
+      "description": "Quod reiciendis aspernatur ipsum cum debitis. Quis",
+      "review": 116,
+      "imageUrl": "https://dummyimage.com/600x400/00000/fff&text=sd"
+    },
+    {
+      "product_id": 204,
+      "name": "Qui",
+      "price": 280,
+      "categoryId": 1,
+      "rate": 3.11,
+      "description": "Occaecati dolore assumenda facilis error quaerat. ",
+      "review": 78,
+      "imageUrl": "https://dummyimage.com/600x400/00000/fff&text=sdf"
+    },
+    {
+      "product_id": 209,
+      "name": "Similique",
+      "price": 262,
+      "categoryId": 1,
+      "rate": 0.29,
+      "description": "Autem blanditiis similique saepe excepturi at erro",
+      "review": 44,
+      "imageUrl": "https://dummyimage.com/600x400/00000/fff&text=sdfdf"
+    },
+    {
+      "product_id": 220,
+      "name": "Soluta",
+      "price": 109,
+      "categoryId": 1,
+      "rate": 0.28,
+      "description": "Quos accusamus distinctio voluptates ducimus neque",
+      "review": 34,
+      "imageUrl": "https://dummyimage.com/600x400/00000/fff&text=ddf"
+    },
+    {
+      "product_id": 223,
+      "name": "Quos",
+      "price": 247,
+      "categoryId": 1,
+      "rate": 4.74,
+      "description": "Error voluptate recusandae reiciendis adipisci nec",
+      "review": 188,
+      "imageUrl": "https://dummyimage.com/600x400/00000/fff&text=dfe"
+    },
+    {
+      "product_id": 224,
+      "name": "Sunt",
+      "price": 297,
+      "categoryId": 1,
+      "rate": 4.38,
+      "description": "Tempora sed explicabo quae recusandae vitae debiti",
+      "review": 63,
+      "imageUrl": "https://dummyimage.com/600x400/00000/fff&text=dfee"
+    },
+    {
+      "product_id": 225,
+      "name": "Nemo",
+      "price": 143,
+      "categoryId": 1,
+      "rate": 1.06,
+      "description": "Id pariatur at modi esse distinctio error. Dolores",
+      "review": 116,
+      "imageUrl": "https://dummyimage.com/600x400/00000/fff&text=dftt"
+    },
+    {
+      "product_id": 226,
+      "name": "Quo",
+      "price": 150,
+      "categoryId": 1,
+      "rate": 3.07,
+      "description": "Explicabo distinctio labore eius. Culpa provident ",
+      "review": 157,
+      "imageUrl": "https://dummyimage.com/600x400/00000/fff&text=dhjg"
+    },
+    {
+      "product_id": 227,
+      "name": "Nobis",
+      "price": 195,
+      "categoryId": 1,
+      "rate": 1.68,
+      "description": "Reprehenderit iste quos amet. Natus consequatur in",
+      "review": 30,
+      "imageUrl": "https://dummyimage.com/600x400/00000/fff&text=dfwe"
+    },
+    {
+      "product_id": 228,
+      "name": "Explicabo",
+      "price": 253,
+      "categoryId": 1,
+      "rate": 0.7,
+      "description": "Nihil magni libero sapiente voluptate. Perspiciati",
+      "review": 11,
+      "imageUrl": "https://dummyimage.com/600x400/00000/fff&text=dfwerfv"
+    },
+    {
+      "product_id": 229,
+      "name": "Hic",
+      "price": 178,
+      "categoryId": 1,
+      "rate": 4.83,
+      "description": "Ut assumenda soluta esse officia. Quos quaerat sus",
+      "review": 78,
+      "imageUrl": "https://dummyimage.com/600x400/00000/fff&text=dqqq"
+    },
+    {
+      "product_id": 230,
+      "name": "Occaecati",
+      "price": 199,
+      "categoryId": 1,
+      "rate": 3.17,
+      "description": "Aut quam nisi libero distinctio. Temporibus rerum ",
+      "review": 103,
+      "imageUrl": "https://dummyimage.com/600x400/00000/fff&text=aaaa"
+    },
+    {
+      "product_id": 231,
+      "name": "Consequatur",
+      "price": 152,
+      "categoryId": 2,
+      "rate": 1.74,
+      "description": "Iste repudiandae nostrum ea iste voluptate ducimus",
+      "review": 77,
+      "imageUrl": "https://dummyimage.com/600x400/00000/fff&text=eee"
+    },
+    {
+      "product_id": 232,
+      "name": "Assumenda",
+      "price": 236,
+      "categoryId": 2,
+      "rate": 2.89,
+      "description": "Sint aperiam voluptatum laudantium laborum at debi",
+      "review": 126,
+      "imageUrl": "https://dummyimage.com/600x400/00000/fff&text=iii"
+    },
+    {
+      "product_id": 233,
+      "name": "Placeat",
+      "price": 115,
+      "categoryId": 2,
+      "rate": 4.7,
+      "description": "Temporibus reiciendis inventore ratione asperiores",
+      "review": 21,
+      "imageUrl": "https://dummyimage.com/600x400/00000/fff&text=kkk"
+    },
+    {
+      "product_id": 235,
+      "name": "Facilis",
+      "price": 130,
+      "categoryId": 2,
+      "rate": 0.64,
+      "description": "In sequi cumque quisquam corrupti doloribus suscip",
+      "review": 118,
+      "imageUrl": "https://dummyimage.com/600x400/00000/fff&text=llll"
+    },
+    {
+      "product_id": 236,
+      "name": "Ratione",
+      "price": 117,
+      "categoryId": 2,
+      "rate": 3.62,
+      "description": "Corrupti sint occaecati doloribus maiores. Exceptu",
+      "review": 30,
+      "imageUrl": "https://dummyimage.com/600x400/00000/fff&text=895d"
+    },
+    {
+      "product_id": 237,
+      "name": "Non",
+      "price": 230,
+      "categoryId": 2,
+      "rate": 2.28,
+      "description": "Exercitationem debitis enim eum nemo necessitatibu",
+      "review": 112,
+      "imageUrl": "https://dummyimage.com/600x400/00000/fff&text=sdrq1f"
+    },
+    {
+      "product_id": 238,
+      "name": "Quaerat",
+      "price": 274,
+      "categoryId": 2,
+      "rate": 1.97,
+      "description": "A similique facilis facilis. Excepturi repudiandae",
+      "review": 68,
+      "imageUrl": "https://dummyimage.com/600x400/00000/fff&text=wwww"
+    },
+    {
+      "product_id": 239,
+      "name": "Fugiat",
+      "price": 167,
+      "categoryId": 2,
+      "rate": 3.67,
+      "description": "Maiores eveniet dolores laudantium quae doloribus ",
+      "review": 53,
+      "imageUrl": "https://dummyimage.com/600x400/00000/fff&text=aaaa"
+    },
+    {
+      "product_id": 240,
+      "name": "Voluptas",
+      "price": 278,
+      "categoryId": 2,
+      "rate": 1.86,
+      "description": "Quas a at officia quod in quod. Impedit deserunt t",
+      "review": 199,
+      "imageUrl": "https://dummyimage.com/600x400/00000/fff&text=xxxd"
+    },
+    {
+      "product_id": 314,
+      "name": "Repellendus",
+      "price": 285,
+      "categoryId": 5,
+      "rate": 4.46,
+      "description": "Alias maiores soluta ab earum asperiores praesenti",
+      "review": 177,
+      "imageUrl": "https://dummyimage.com/600x400/00000/fff&text=fgh"
+    },
+    {
+      "product_id": 315,
+      "name": "Quibusdam",
+      "price": 209,
+      "categoryId": 6,
+      "rate": 0.21,
+      "description": "Assumenda debitis voluptatem magnam temporibus mol",
+      "review": 125,
+      "imageUrl": "https://dummyimage.com/600x400/00000/fff&text=lllp",
+      "new": true
+    }
+  ]
