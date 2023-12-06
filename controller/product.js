@@ -16,20 +16,17 @@ const getAllProductStatic = async (req, res) => {
   // used to find directly what comes in query
   // const product = await Product.find(req.query)
   
-  const { featured, company, name } = req.query
+  const { name,product_id } = req.query
   const queryObj={}
-//   if (featured) {
-//   queryObj.featured= featured === "true" ? true : false
-// }
-//    if (company) {
-//   queryObj.company = company
-//    }
+  if (product_id) {
+    queryObj.product_id = product_id
+  }
    if (name) {
   queryObj.name = {$regex: name, $options: 'i'}
 }
   const product = await Product.find(queryObj)
   res.status(200).json({ product, Total_Product: product.length })
-}
+} 
 
 module.exports = {
   getAllProductStatic, getAllProducts
