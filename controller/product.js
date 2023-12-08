@@ -12,20 +12,47 @@ const getAllProducts = async (req, res) => {
 }
 
 const getAllProductStatic = async (req, res) => {
-  // console.log("Products", req.query)
+  const { name,product_id, sortByName, sortByPrice } = req.query
   // used to find directly what comes in query
   // const product = await Product.find(req.query)
-  
-  const { name,product_id } = req.query
+  console.log("first", req.query)
   const queryObj={}
   if (product_id) {
     queryObj.product_id = product_id
   }
    if (name) {
   queryObj.name = {$regex: name, $options: 'i'}
-}
-  const product = await Product.find(queryObj)
-  res.status(200).json({ product, Total_Product: product.length })
+   }
+    const sortOptions = {};
+ // Sorting by Name ""
+  if (sortByName) {
+    if (sortByName === 'ascN'){
+      sortOptions.name = 1
+    }
+      if (sortByName === 'desN'){
+      sortOptions.name = -1
+    }
+  }
+  // Sorting by Price
+    if (sortByPrice) {
+      if (sortByPrice == 'asc') {
+        sortOptions.rate = 1
+      }
+      if (sortByPrice == 'des') {
+        sortOptions.rate = -1
+      }
+  }
+
+  try {
+     const products = await Product.find(queryObj).sort(sortOptions);
+
+    // console.log('Sorted Products:', products);
+
+    res.status(200).json({ products, Total_Product: products.length });
+  } catch (error) {
+    console.error('Error fetching products:', error);
+    res.status(500).json({ error: 'Internal Server Error' });
+  }
 } 
 
 module.exports = {
